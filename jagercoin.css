@@ -165,13 +165,13 @@ body {
   }
     
     #header {
-        margin-left: 20vmax;
+        margin-left: 15vmax;
         font-size:4.05vmax;
     }
    #menu {
     transform: scale(2);
-    margin-top: 25vmax;
-    margin-left: 26vmax;
+    margin-top: 20vmax;
+    margin-left: 21vmax;
     font-family:'roboto';
     font-size: 4vmax;
     
